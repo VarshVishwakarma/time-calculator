@@ -29,8 +29,3 @@ add_time("11:43 PM", "24:20", "tueSday")
 
 add_time("6:30 PM", "205:12")
 # Returns: 7:42 AM (9 days later)
-
-Clone this repository to use it:- git clone https://github.com/<your-username>/time-calculator.git
-cd time-calculator
-
-python time_calculator.py
